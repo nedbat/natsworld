@@ -1,0 +1,8 @@
+** Bugs **
+
+- Transition in the library pix dissolves the picture at the wrong place.
+- Transition at the red light at rt9 and brookline ave sometimes thinks
+  it should slide left rather than dissolve.
++ Menus don't work right with arrow keys anymore.
+- updateView doesn't work in recursive mode
+- left180 and right180 should have different transitions
